@@ -1,0 +1,35 @@
+.bar {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 10px;
+  gap: 10px;
+}
+
+.lineWidth {
+  background-color: #fff;
+  height: 20px;
+  cursor: pointer;
+}
+
+.lineWidthActive {
+  border: 2px solid #1890ff;
+}
+
+.color {
+  border: none;
+  padding: 0;
+  width: 30px;
+  height: 20px;
+  background-color: transparent;
+}
+
+.icon {
+  color: white;
+  font-size: large;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.iconActive {
+  background: #1890ff;
+}
